@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "title": "Java",
+      "category": "tech",
+      "price": 300,
+      "publisher":"publisherDemo",
+      "active":"Y",
+      "content":"text",
+      "img":"img.jpg",
+      "id": 1
+    }
+  ]
+}
